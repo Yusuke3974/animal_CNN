@@ -10,3 +10,6 @@
 <br>というものになります。
 
 それぞれPythonファイルで書いてあります。
+
+分類する動物の種類<br>
+**["monkey","boar","bear","cat","giraffe","gorilla","horse","lion","penguin","rabbit","crow"]**
