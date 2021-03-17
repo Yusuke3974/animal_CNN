@@ -13,3 +13,7 @@
 
 分類する動物の種類<br>
 **["monkey","boar","bear","cat","giraffe","gorilla","horse","lion","penguin","rabbit","crow"]**
+<br>
+
+## ＜ファイルの実行順序＞
+1.
